@@ -11,5 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Machado-lucas/alura-play-requisicoes-main.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Machado-lucas/alura-play-requisicoes-main/issues"
+  },
+  "homepage": "https://github.com/Machado-lucas/alura-play-requisicoes-main#readme"
 }
